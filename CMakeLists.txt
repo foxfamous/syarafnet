@@ -1,6 +1,6 @@
 # project
 cmake_minimum_required(VERSION 2.8)
-set(PROJECT_NAME "newelas")
+set(PROJECT_NAME "neuralnet")
 project( ${PROJECT_NAME} )
 
 #package
